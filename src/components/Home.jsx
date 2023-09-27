@@ -201,7 +201,9 @@ const Home = () => {
             </CardActionArea>
           </Card>
         </Grid>
-        <div
+        
+      </Grid>
+      <div
             style={{
               display: "flex",
               justifyContent: "center",
@@ -219,7 +221,6 @@ const Home = () => {
               Enroll for courses by Contacting us
             </Button>
           </div>
-      </Grid>
       <Grid
         container
         justifyContent={"center"}
